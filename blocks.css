@@ -1,0 +1,95 @@
+body{
+	background-color: lightsteelblue;
+}
+p{
+	font-size: 50px;
+	background-color: pink;
+	color: lavender;
+	display: block;
+}
+span{
+	color: fuchsia;
+	border: 2px dashed darkred;
+	display: inline-block;
+	width: 500px;
+}
+u1{
+	background-color: fuchsia;
+
+}
+u1 li{
+	background-color: magenta;
+	display: inline-block;
+	font-size: 24px;
+	border: 5px dotted red;
+}
+li:hover{
+	background-color: pink;
+}
+a{
+	text-decoration: none;
+}
+ 
+    
+#first{
+	background-color: lightpink;
+	font-size: 48px;
+	width: 500px;
+	height: 500px;
+	border-width: 30px;
+	border-style: dotted dashed;
+	border-color: pink lavender lightblue fuchsia;
+	color: skyblue;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-style: dotted groove;
+}
+#second{
+	background-color: lightblue;
+	font-size: 24px;
+	width: 700px;
+	height: 700px;
+	border-width: 30px;
+	margin: 50px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+#third,#fourth{
+	background-color: lightpink;
+	font-size: 30px;
+	width: 800px;
+	height: 200px;
+	margin: 50px;
+	padding: 50px;
+	border-style: double;
+	border-color: babblegum;
+	border-width: 50px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+{
+	box-sizing: inherit;
+}
+html{
+	box-sizing: border-box;
+}
+body{
+	margin: 0px;
+	padding: 50px;
+}
+div{
+	width: 200px;
+	height: 100px;
+	background-color: magenta;
+	box-shadow: 0 0 0 5px lavender,0 0 0 10px violet,0 0 0 15px magenta,0 0 0 20px lightcyan;
+}
+
+
+

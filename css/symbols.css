@@ -1,0 +1,64 @@
+body{
+	background-color: pink;
+}
+p{
+	font-size: 48px;
+	color: darkblue;
+}
+.p1{
+	color: darkblue;
+	background-color: mediumaquamarine;
+}
+.p2{
+	font-family: sans-serif;
+ }
+.p3{
+	font-family:font-family: sans-serif;
+}
+.p5{
+	font-family: cursive;
+}
+.p6{
+	font-family: serif;
+}
+.p7{
+ font-family: "Kablammo", system-ui;
+ text-shadow: 2px 2px viollet;
+}
+.p8{
+	 font-family: "Rubik Scribble", system-ui;
+	 text-shadow: 2px -2px 10px orange;
+}
+.p9{
+	font-family: "Rubik Gtlich Pop", system-ui;
+	text-shadow: 2px -2px 10px orange, 4 px -4px fuchsia;
+}
+.p10{
+	font-family: "Rubik Subbles", system-ui;
+    text-shadow: 2px -2px 10px orange;
+}
+.p11{
+	font-family:"Lobster", sans-serif;
+	text-shadow: 0 0 15px teal;
+}
+.p12{
+	font-weight: 700;
+}
+.p13{
+	font-style: italic;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: green;
+}
+.p14{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: dashed;
+	text-decoration-color: green;
+}
+.s1{
+	font-size: 2cm;
+	color: blueviolet;
+	font-family: "Rubik Scribble", system-ui;
+}
