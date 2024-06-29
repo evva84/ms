@@ -15,7 +15,7 @@ main{
 footer{
 	clear: both;
 	background-color: lightpink;
-	height: 250px;
+	height: 100%;
 }
 h2{
 	text-align: center;
